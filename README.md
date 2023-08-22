@@ -5,6 +5,7 @@
 - 🌱  currently learning Full-stack development
 - 👯  looking to collaborate on web development and open-source projects
 > LITTLE AND OFTEN WINS THE RACE.
+
 I agree with this Idea.
 - I **live** by the tags *#LearnInPublic #OpenSource*
 - ~~Code first...~~ Nah, not really. Instead, **Collaboration** First, **Code** Second.
