@@ -10,9 +10,12 @@ I agree with this Idea.
 - ~~Code first...~~ Nah, not really: **Collaboration** First, **Code** Second.
 
 ##📫 How to reach me:
--[LinkedIn](www.linkedin.com/in/prathamsikka)
--[Twitter](https://twitter.com/pratham_sikka)
--[Technical Blogs](https://klout.hashnode.dev/)
+-
+[LinkedIn](www.linkedin.com/in/prathamsikka)
+-
+[Twitter](https://twitter.com/pratham_sikka)
+-
+[Technical Blogs](https://klout.hashnode.dev/)
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=PrathamSikka24&show_icons=true&theme=tokyonight" 
