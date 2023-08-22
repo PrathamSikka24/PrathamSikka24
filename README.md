@@ -7,14 +7,14 @@
 > LITTLE AND OFTEN WINS THE RACE.
 I agree with this Idea.
 - I **live** by the tags *#LearnInPublic #OpenSource*
-- ~~Code first...~~ Nah, not really: **Collaboration** First, **Code** Second.
+- ~~Code first...~~ Nah, not really. Instead, **Collaboration** First, **Code** Second.
 
 ##📫 How to reach me:
--
+
 [LinkedIn](www.linkedin.com/in/prathamsikka)
--
+
 [Twitter](https://twitter.com/pratham_sikka)
--
+
 [Technical Blogs](https://klout.hashnode.dev/)
 
 <img 
